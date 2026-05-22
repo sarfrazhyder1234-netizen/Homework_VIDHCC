@@ -1,3 +1,8 @@
 Task 1 of Homework.
 I created this file in Google Colab.
 It is pushed in Repo!
+
+
+My comments:
+Thank you very much for your precise work! It is good to see that you learned that you shouldn't publish your token and also google colab does not let you do that. 
+All good, thank you! 
